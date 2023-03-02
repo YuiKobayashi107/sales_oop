@@ -110,14 +110,14 @@ $product_list = $product->displayProducts();
                             </div>
 
                             <div class="row mb-3">
-                                <div class="col-mb-6">
+                                <div class="col-6">
                                     <label for="price" class="form-label small text-secondary">Price</label>
                                     <div class="input-group mb-3">
                                         <span class="input-group-text" id="price-tag">$</span>
                                         <input type="text" name="price" id="price" class="form-control">
                                     </div>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-6">
                                     <label for="quantity" class="form-label small text-secondary">Quantity</label>
                                     <input type="number" name="quantity" id="quantity" class="form-control">
                                 </div>
